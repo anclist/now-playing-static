@@ -248,5 +248,11 @@ figure {
     .movie:first-child .movie-backdrop {
       display: block;
     }
+    .movie:first-child .movie-poster {
+      display: none;
+    }
+    .movie-poster {
+      display: block;
+    }
 
   }
