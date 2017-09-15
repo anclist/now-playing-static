@@ -254,5 +254,11 @@ figure {
     .movie-poster {
       display: block;
     }
+    .movie-overview {
+      display: none;
+    }
+    .movie:first-child .movie-overview {
+      display: block;
+    }
 
   }
