@@ -260,5 +260,13 @@ figure {
     .movie:first-child .movie-overview {
       display: block;
     }
+    .movie {
+      width: 33%;
+      float: left;
+    }
+    .movie:first-child {
+      width: 100%;
+    }
+
 
   }
