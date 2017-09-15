@@ -218,4 +218,7 @@ figure {
     width: 50px;
     height: 50px;
   }
+  .movie-overview {
+    display: inline-block;
+  }
   }
