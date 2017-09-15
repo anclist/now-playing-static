@@ -221,4 +221,13 @@ figure {
   .movie-overview {
     display: inline-block;
   }
+  .footer-nav {
+      float: left;
+      width: 50%;
+  }
+  .about {
+      float: right;
+      width: 50%;
+  }
+
   }
