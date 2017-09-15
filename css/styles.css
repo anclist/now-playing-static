@@ -196,6 +196,13 @@ figure {
   margin: 0;
 }
 
+
+/* MEDIA QUERYS*/
+
+
+
+/*  FOR TABLETS */
+
 @media ( min-width: 768px) {
   body {
     padding-left: 68px;
@@ -229,5 +236,17 @@ figure {
       float: right;
       width: 50%;
   }
+  }
+
+
+  /* FOR DESKTOPS */
+
+  @media ( min-width: 992px) {
+    .movie-backdrop {
+      display: none;
+    }
+    .movie:first-child .movie-backdrop {
+      display: block;
+    }
 
   }
