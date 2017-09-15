@@ -267,6 +267,8 @@ figure {
     .movie:first-child {
       width: 100%;
     }
-
+    main {
+      overflow: hidden;
+    }
 
   }
