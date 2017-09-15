@@ -211,6 +211,7 @@ figure {
 
   .site-nav-item {
     float: none;
+    width: 100%;
   }
   .site-nav {
     right: auto;
